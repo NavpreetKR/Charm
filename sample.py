@@ -21,4 +21,3 @@ def submit():
     print(y_data)
     return str(y_data)
 
-app.run(port=8000)
